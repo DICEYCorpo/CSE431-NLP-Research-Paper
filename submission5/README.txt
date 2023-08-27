@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/yhkcmpvjhsgr
 
 Unlisted YouTube video:
-https://youtu.be/CEQw0MzxM9g
+https://youtu.be/z0olsENIEJk
 
 Paper title:
 Investigate Strategies for Coming Up with Hilarious Text or Jokes Using NLP
