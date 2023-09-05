@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/XKer5aO3lr0
 
 Conference submitted paper / paper submission / login Link:
-https://youtu.be/z0olsENIEJk
+https://edas.info/index.php?c=30927
 
 Paper title:
 Investigate Strategies for Coming Up with Hilarious Text or Jokes Using NLP
@@ -14,16 +14,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1LhPx7WzoYVAN5wWXcptbxIqCp-a7y-W3/edit#slide=id.p1
 
 Paper submission date (to workshop/conference):
-
+9/5/2023
 
 Paper submission ID: (received) from conference/workshop
-
+1570952375
 
 Conference Name:
-
+COMNETSAT 2023	
 
 Conference URL:
-
+https://edas.info/index.php?c=30927
 
 Group Number:
 20
