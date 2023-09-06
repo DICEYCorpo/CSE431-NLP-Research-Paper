@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/6911267339ttdsyszmkbtf
+https://www.overleaf.com/project/64ecd0eab5042884c27aee57
 
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=4t_gSICcRsM&ab_channel=HASANMOHAMMODTANZIR
@@ -11,7 +11,7 @@ Paper title:
 A Comprehensive Study of Sarcasm Detection in Bangla Using NLP
 
 Paper presentation (anyone can view without login):
-https://www.overleaf.com/6911267339ttdsyszmkbtf
+https://www.overleaf.com/project/64ecd0eab5042884c27aee57
 
 Paper submission date (to workshop/conference):
 9/5/2023
