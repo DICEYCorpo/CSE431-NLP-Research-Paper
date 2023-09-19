@@ -11,7 +11,7 @@ Paper title:
 A Comprehensive Study of Sarcasm Detection in Bangla Using NLP
 
 Paper presentation (anyone can view without login):
-https://www.overleaf.com/9334936254wnpmcfvbmgth
+https://docs.google.com/presentation/d/1LhPx7WzoYVAN5wWXcptbxIqCp-a7y-W3/edit#slide=id.p1
 
 Paper submission date (to workshop/conference):
 9/5/2023
